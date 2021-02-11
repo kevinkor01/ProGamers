@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bruhers:blocks/facke_impact",
+    "up": "bruhers:blocks/facke_impact",
+    "north": "bruhers:blocks/facke_impact",
+    "east": "bruhers:blocks/facke_impact",
+    "south": "bruhers:blocks/facke_impact",
+    "west": "bruhers:blocks/facke_impact",
+    "particle": "bruhers:blocks/facke_impact"
+  }
+}

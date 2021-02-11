@@ -1,0 +1,47 @@
+{
+  "_fv": 13,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Fakeimpactblock"
+    },
+    "portalParticles": {
+      "value": "FLAME"
+    },
+    "portalLuminance": 0.1,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Impact Dime Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "portalighter",
+    "portalTexture": "portal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "ocean"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:ImpactBlock"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -65332,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

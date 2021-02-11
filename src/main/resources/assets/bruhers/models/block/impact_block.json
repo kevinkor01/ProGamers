@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bruhers:blocks/unknown",
+    "up": "bruhers:blocks/unknown",
+    "north": "bruhers:blocks/unknown",
+    "east": "bruhers:blocks/unknown",
+    "south": "bruhers:blocks/unknown",
+    "west": "bruhers:blocks/unknown",
+    "particle": "bruhers:blocks/unknown"
+  }
+}

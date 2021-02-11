@@ -1,0 +1,68 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ImpactBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_block"
+    },
+    {
+      "name": "Impactitem",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impactitem"
+    },
+    {
+      "name": "Fakeimpactblock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fakeimpactblock"
+    },
+    {
+      "name": "ImpactDime",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_dime"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.bruhers.impactitem": "Impactitem",
+      "block.bruhers.impact_block": "Impact Block",
+      "block.bruhers.fakeimpactblock": "Fakeimpactblock",
+      "item.bruhers.impact_dime": "Impact Dime Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "bruhers",
+    "modName": "bruhers",
+    "version": "1.0.0",
+    "author": "konzo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.bruhers",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

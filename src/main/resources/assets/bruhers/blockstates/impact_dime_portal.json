@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bruhers:block/impact_dime_portal_ew"
+    },
+    "axis=x": {
+      "model": "bruhers:block/impact_dime_portal_ns"
+    }
+  }
+}
