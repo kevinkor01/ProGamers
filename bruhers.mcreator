@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "impact_dime"
+    },
+    {
+      "name": "LoLinttheimpact",
+      "type": "achievement",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lo_linttheimpact"
     }
   ],
   "variable_elements": [],
@@ -43,7 +52,9 @@
   "language_map": {
     "en_us": {
       "item.bruhers.impactitem": "Impactitem",
+      "advancements.lo_linttheimpact.descr": "dlmsald",
       "block.bruhers.impact_block": "Impact Block",
+      "advancements.lo_linttheimpact.title": "Lo Lin the impact",
       "block.bruhers.fakeimpactblock": "Fakeimpactblock",
       "item.bruhers.impact_dime": "Impact Dime Portal Igniter"
     }
