@@ -2,7 +2,7 @@
   "display": {
     "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "minecraft:diamond_block"
+      "item": "bruhers:impactitem"
     },
     "title": {
       "translate": "advancements.lo_linttheimpact.title"
@@ -13,14 +13,17 @@
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
   "criteria": {
     "lo_linttheimpact": {
-      "trigger": "minecraft:impossible"
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "bruhers:impact_dime"
+      }
     }
   },
   "rewards": {
-    "experience": 1
+    "experience": 10
   }
 }
