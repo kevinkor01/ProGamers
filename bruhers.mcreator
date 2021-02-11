@@ -45,18 +45,225 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lo_linttheimpact"
+    },
+    {
+      "name": "CobaltDust",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_dust"
+    },
+    {
+      "name": "CobaltOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore"
+    },
+    {
+      "name": "CobaltBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block"
+    },
+    {
+      "name": "CobaltOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_block_recipe"
+    },
+    {
+      "name": "CobaltBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_block_ore_recipe"
+    },
+    {
+      "name": "CobaltOreSmelting",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_ore_smelting"
+    },
+    {
+      "name": "CobaltPickaxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe"
+    },
+    {
+      "name": "CobaltAxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe"
+    },
+    {
+      "name": "CobaltSword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword"
+    },
+    {
+      "name": "CobaltShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel"
+    },
+    {
+      "name": "CobaltHoe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe"
+    },
+    {
+      "name": "CobaltPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_pickaxe_recipe"
+    },
+    {
+      "name": "CobaltAxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_axe_recipe"
+    },
+    {
+      "name": "CobaltSwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_sword_recipe"
+    },
+    {
+      "name": "CobaltShovelRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_shovel_recipe"
+    },
+    {
+      "name": "CobaltHoeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_hoe_recipe"
+    },
+    {
+      "name": "CobaltArmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CobaltArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_helmet_recipe"
+    },
+    {
+      "name": "CobaltArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_body_recipe"
+    },
+    {
+      "name": "CobaltArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_leggings_recipe"
+    },
+    {
+      "name": "CobaltArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobalt_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.bruhers.cobalt_block": "Block of Cobalt",
       "item.bruhers.impactitem": "Impactitem",
       "advancements.lo_linttheimpact.descr": "Enter The impact Dimension",
+      "item.bruhers.cobalt_sword": "Cobalt Sword",
       "block.bruhers.impact_block": "Impact Block",
-      "advancements.lo_linttheimpact.title": "Lo Lin the impact",
+      "item.bruhers.cobalt_dust": "Cobalt",
       "block.bruhers.fakeimpactblock": "Fakeimpactblock",
-      "item.bruhers.impact_dime": "Impact Dime Portal Igniter"
+      "item.bruhers.cobalt_shovel": "Cobalt Shovel",
+      "item.bruhers.cobalt_hoe": "Cobalt Hoe",
+      "item.bruhers.cobalt_armor_boots": "Cobalt Boots",
+      "item.bruhers.impact_dime": "Impact Dime Portal Igniter",
+      "item.bruhers.cobalt_pickaxe": "Cobalt Pickaxe",
+      "block.bruhers.cobalt_ore": "Cobalt Ore",
+      "item.bruhers.cobalt_armor_chestplate": "Cobalt Chestplate",
+      "item.bruhers.cobalt_armor_leggings": "Cobalt Leggings",
+      "advancements.lo_linttheimpact.title": "Lo Lin the impact",
+      "item.bruhers.cobalt_armor_helmet": "Cobalt Helmet",
+      "item.bruhers.cobalt_axe": "Cobalt Axe"
     }
   },
   "workspaceSettings": {

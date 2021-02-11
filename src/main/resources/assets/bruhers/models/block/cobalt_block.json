@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bruhers:blocks/cobalt_ore_block",
+    "particle": "bruhers:blocks/cobalt_ore_block"
+  }
+}

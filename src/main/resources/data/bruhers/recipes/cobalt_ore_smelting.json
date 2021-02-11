@@ -1,0 +1,12 @@
+{
+  "group": "bruhers",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bruhers:cobalt_ore"
+  },
+  "result": {
+    "item": "bruhers:cobalt_dust"
+  }
+}

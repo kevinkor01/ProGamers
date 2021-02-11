@@ -1,0 +1,13 @@
+{
+  "group": "bruhers",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bruhers:cobalt_block"
+    }
+  ],
+  "result": {
+    "item": "bruhers:cobalt_dust",
+    "count": 9
+  }
+}
