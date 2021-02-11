@@ -1,0 +1,26 @@
+{
+  "group": "bruhers",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bruhers:impactitem"
+    },
+    "2": {
+      "item": "bruhers:impactitem"
+    },
+    "3": {
+      "item": "bruhers:impactitem"
+    },
+    "5": {
+      "item": "bruhers:impactitem"
+    }
+  },
+  "result": {
+    "item": "bruhers:impact_armor_boots",
+    "count": 1
+  }
+}

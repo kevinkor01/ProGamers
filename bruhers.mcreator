@@ -240,6 +240,147 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobalt_armor_boots_recipe"
+    },
+    {
+      "name": "ImpactArmor",
+      "type": "armor",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ImpactArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_armor_helmet_recipe"
+    },
+    {
+      "name": "ImpactArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_armor_body_recipe"
+    },
+    {
+      "name": "ImpactArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_armor_leggings_recipe"
+    },
+    {
+      "name": "ImpactArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_armor_boots_recipe"
+    },
+    {
+      "name": "ImpactPickaxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_pickaxe"
+    },
+    {
+      "name": "ImpactAxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_axe"
+    },
+    {
+      "name": "ImpactSword",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_sword"
+    },
+    {
+      "name": "ImpactShovel",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_shovel"
+    },
+    {
+      "name": "ImpactHoe",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_hoe"
+    },
+    {
+      "name": "ImpactPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_pickaxe_recipe"
+    },
+    {
+      "name": "ImpactAxeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_axe_recipe"
+    },
+    {
+      "name": "ImpactSwordRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_sword_recipe"
+    },
+    {
+      "name": "ImpactShovelRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_shovel_recipe"
+    },
+    {
+      "name": "ImpactHoeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impact_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -247,23 +388,32 @@
   "language_map": {
     "en_us": {
       "block.bruhers.cobalt_block": "Block of Cobalt",
-      "item.bruhers.impactitem": "Impactitem",
       "advancements.lo_linttheimpact.descr": "Enter The impact Dimension",
       "item.bruhers.cobalt_sword": "Cobalt Sword",
-      "block.bruhers.impact_block": "Impact Block",
       "item.bruhers.cobalt_dust": "Cobalt",
-      "block.bruhers.fakeimpactblock": "Fakeimpactblock",
       "item.bruhers.cobalt_shovel": "Cobalt Shovel",
-      "item.bruhers.cobalt_hoe": "Cobalt Hoe",
       "item.bruhers.cobalt_armor_boots": "Cobalt Boots",
+      "item.bruhers.impact_armor_chestplate": "Impact Chestplate",
+      "block.bruhers.cobalt_ore": "Cobalt Ore",
+      "item.bruhers.cobalt_armor_leggings": "Cobalt Leggings",
+      "item.bruhers.impact_shovel": "Impact Shovel",
+      "item.bruhers.cobalt_armor_helmet": "Cobalt Helmet",
+      "item.bruhers.impact_armor_helmet": "Impact Helmet",
+      "item.bruhers.cobalt_axe": "Cobalt Axe",
+      "item.bruhers.impact_pickaxe": "Impact Pickaxe",
+      "item.bruhers.impactitem": "Impactitem",
+      "item.bruhers.impact_axe": "Impact Axe",
+      "item.bruhers.impact_sword": "Impact Sword",
+      "block.bruhers.impact_block": "Impact Block",
+      "block.bruhers.fakeimpactblock": "Fakeimpactblock",
+      "item.bruhers.cobalt_hoe": "Cobalt Hoe",
       "item.bruhers.impact_dime": "Impact Dime Portal Igniter",
       "item.bruhers.cobalt_pickaxe": "Cobalt Pickaxe",
-      "block.bruhers.cobalt_ore": "Cobalt Ore",
+      "item.bruhers.impact_hoe": "Impact Hoe",
+      "item.bruhers.impact_armor_leggings": "Impact Leggings",
       "item.bruhers.cobalt_armor_chestplate": "Cobalt Chestplate",
-      "item.bruhers.cobalt_armor_leggings": "Cobalt Leggings",
-      "advancements.lo_linttheimpact.title": "Lo Lin the impact",
-      "item.bruhers.cobalt_armor_helmet": "Cobalt Helmet",
-      "item.bruhers.cobalt_axe": "Cobalt Axe"
+      "item.bruhers.impact_armor_boots": "Impact Boots",
+      "advancements.lo_linttheimpact.title": "Lo Lin the impact"
     }
   },
   "workspaceSettings": {

@@ -1,0 +1,36 @@
+{
+  "group": "bruhers",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "bruhers:impactitem"
+    },
+    "1": {
+      "item": "bruhers:impactitem"
+    },
+    "2": {
+      "item": "bruhers:impactitem"
+    },
+    "3": {
+      "item": "bruhers:impactitem"
+    },
+    "5": {
+      "item": "bruhers:impactitem"
+    },
+    "6": {
+      "item": "bruhers:impactitem"
+    },
+    "8": {
+      "item": "bruhers:impactitem"
+    }
+  },
+  "result": {
+    "item": "bruhers:impact_armor_leggings",
+    "count": 1
+  }
+}
